@@ -11,6 +11,7 @@ It introduces the basics of Git, GitHub, and the Model Context Protocol (MCP).
 
 2 How to Run the Project
 
+
 1. Check that Git is installed:
 
    git --version
