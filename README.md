@@ -20,7 +20,7 @@ It introduces the basics of Git, GitHub, and the Model Context Protocol (MCP).
 3. Configure Git:
    bash
    git config --global user.name "Your Name"
-   git config --global user.email "your@email.com"
+   git config --global user.email "larasalehjadallah@gmail.com"
   
 
 4. Create a new repository on GitHub.
